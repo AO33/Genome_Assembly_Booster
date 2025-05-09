@@ -1,5 +1,5 @@
 # HiC_Genome_Assembly_Booster
-Code repository for a HiC based genome assembly "boosting" algorithm written during my time in the [BaumannLab](https://www.baumannlab.org/links.html)<br>
+Code repository for a HiC based genome assembly "boosting" algorithm written during my time in the [BaumannLab](https://www.baumannlab.org)<br>
 If you use our tool please cite XXXX (manuscript currently in preperation / submission phase)
 
 ## Algorithm overview
